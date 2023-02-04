@@ -1,2 +1,2 @@
 # circulant-matrix-inverter
-Tool to brute-force inverses for binary circulant matrices with three high bits in each row.
+Various approaches (bruteforce and otherwise) to investigate properties and structures of binary circulant matrices.
